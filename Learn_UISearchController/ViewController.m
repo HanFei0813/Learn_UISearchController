@@ -26,6 +26,7 @@
     
     [self configView];
     [self configData];
+    NSLog(@"");
 }
 
 - (void)configView {
